@@ -1,4 +1,4 @@
-# coinFlipper
+# colorFlipper
 Begineer vanilla Javascript project
 
 Great project for begineers where you can learn the following key concepts:
