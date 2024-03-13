@@ -1,23 +1,11 @@
-Based on the provided HTML, CSS, and JavaScript code, here's a README file for your Color Flipper project:
-
----
-
 # Color Flipper
 
 Color Flipper is a simple web application that allows users to change the background color of a page by clicking a button. It includes two modes: "Simple" mode, which changes the background color to predefined colors, and "Hex" mode, which generates random hex colors.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Files](#files)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/prasiddha007/colorFlipper.git`
-2. Navigate to the project directory: `cd your-repository`
+2. Navigate to the project directory: `cd colorFlipper`
 3. Open `index.html` or `hex.html` in your web browser.
 
 ## Usage
@@ -46,7 +34,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README file to include any additional information or details specific to your project.
